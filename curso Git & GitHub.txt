@@ -1,0 +1,4 @@
+git init: para comenzar el seguimiento de nuestro proyecto
+git add: para añadir que archivos queremos que haga el seguimiento y lo lleva al area de ensayo (staging area)
+git commit: para llevar el archivo de area de ensayo al Repositorio local.ejm: git commit -m "Comienzo del proyecto"  
+git status -s : para ver los archivos que hay en la carpeta del proyecto despues de darle git init. 
